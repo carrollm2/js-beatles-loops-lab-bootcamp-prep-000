@@ -23,6 +23,7 @@ function iLoveTheBeatles(number){
   var array = []
   if (number < 15){
     array.push("I love the Beatles!")
+    return array
   } else {
     var count = 1;
     do{
