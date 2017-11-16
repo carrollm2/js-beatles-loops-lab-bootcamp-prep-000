@@ -30,5 +30,6 @@ function iLoveTheBeatles(number){
       count++
     }(while count <= number)
   }
-}
 
+  return array
+}
